@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation Code Challenge" >
+    <listeners>
+        <listener class-name="utilities.ExtentReporter" />
+    </listeners>
+    <test name="web" >
+        <packages>
+            <package name="web" />
+        </packages>
+    </test>
+
+    <test name="api" >
+        <packages>
+            <package name="api" />
+        </packages>
+    </test>
+</suite>
