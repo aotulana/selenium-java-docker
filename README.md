@@ -1,6 +1,6 @@
-# Automation Code Challenge
+# Selenium-RESTAssured-Docker
 
-This project contains submission for both Web and API Automation Challenges. 
+This project contains both Web and API Automation. 
 The Web Automation was implemented using Selenium v4 and RESTAssured for the API Automation.
 
 ## Setup
